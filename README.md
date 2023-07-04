@@ -9,6 +9,7 @@ Landind page para mostrar diferentes formas de se posicionar e distribuir elemen
 - Buscar o usuário do GitHub
 - Pensar em tamanhos diferentes de tela usando "@media queries"
 - Utilizar ícones do "font awesome"
+- Utilizar display grid e display flex
 
 ## Tecnologias utilizadas
 - HTML
